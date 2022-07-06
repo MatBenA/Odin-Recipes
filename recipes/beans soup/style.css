@@ -1,0 +1,16 @@
+*{
+    background-color: black;
+    color: white;
+}
+
+h1,h2{
+    background-color: rgb(87, 87, 87);
+}
+
+h1{
+    text-align: center;
+}
+
+ol{
+    text-align: justify;
+}

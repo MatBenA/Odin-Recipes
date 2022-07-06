@@ -1,0 +1,18 @@
+*{
+    background-color: black;
+    color: white;
+}
+
+h1{
+    background-color: rgb(87, 87, 87);
+    text-align: center;
+}
+
+img{
+    height: 225px;
+    width: 1335px;
+}
+
+li{
+    text-align: left;
+}
